@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/leafapps-website/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/leafapps-website/static/js/main.b48edabc.chunk.js",
+    "main.js.map": "/leafapps-website/static/js/main.b48edabc.chunk.js.map",
+    "runtime-main.js": "/leafapps-website/static/js/runtime-main.c758bbc5.js",
+    "runtime-main.js.map": "/leafapps-website/static/js/runtime-main.c758bbc5.js.map",
+    "static/js/2.89c74ec8.chunk.js": "/leafapps-website/static/js/2.89c74ec8.chunk.js",
+    "static/js/2.89c74ec8.chunk.js.map": "/leafapps-website/static/js/2.89c74ec8.chunk.js.map",
+    "static/js/3.f4f948b2.chunk.js": "/leafapps-website/static/js/3.f4f948b2.chunk.js",
+    "static/js/3.f4f948b2.chunk.js.map": "/leafapps-website/static/js/3.f4f948b2.chunk.js.map",
+    "index.html": "/leafapps-website/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/leafapps-website/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.89c74ec8.chunk.js.LICENSE.txt": "/leafapps-website/static/js/2.89c74ec8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/leafapps-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c758bbc5.js",
+    "static/js/2.89c74ec8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b48edabc.chunk.js"
+  ]
+}
