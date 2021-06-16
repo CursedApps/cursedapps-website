@@ -3,7 +3,7 @@ import React, { Component } from "react";
 // npm install --save-dev @iconify/react @iconify-icons/codicon
 import { InlineIcon } from '@iconify/react';
 import gitIcon from '@iconify-icons/codicon/github-inverted';
-import logo from '../assets/VF_W_small.png';
+import logo from '../assets/VF_W.png';
 import { Navbar, NavDropdown, Nav, Image } from "react-bootstrap";
 import '../css/navbar.css'
 
@@ -12,7 +12,7 @@ class StickyNavbar extends Component {
         return (
             <React.Fragment>
                 <Navbar fixed="top" className="la-navbar">
-                    <Navbar.Brand href="#home"><Image src={logo} width="40" height="40" className="d-inline-block align-top"/></Navbar.Brand>
+                    <Navbar.Brand href="#home"><Image src={logo} height="40" className="d-inline-block align-top"/></Navbar.Brand>
 
                     <Navbar.Collapse id="basic-navbar-nav" className="justify-content-center">
                             <Nav.Link href="#home">Home</Nav.Link>
