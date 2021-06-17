@@ -2,8 +2,15 @@
   text-align: center;
 }
 
+:root {
+  --primaryColor: #AD1457;
+  --darkerColor: #78002e;
+  --lighterColor: #e35183;
+  --white: #ffffff;
+}
+
 .App-header {
-  background-color: #30bc78;
+  background-color: var(--primaryColor);
   min-height: 100vh;
   display: flex;
   flex-direction: column;

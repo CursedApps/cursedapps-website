@@ -1,6 +1,6 @@
 {
-  "homepage": "http://LeafApps.github.io/leafapps-website",
-  "name": "leafapps-website",
+  "homepage": "http://cursedapps.github.io/",
+  "name": "cursedapps-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

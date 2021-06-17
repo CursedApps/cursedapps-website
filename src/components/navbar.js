@@ -22,7 +22,10 @@ class StickyNavbar extends Component {
                                 <NavDropdown.Item href="#action/3.3" className="dropdown-item">Marching Cubes Algorithm</NavDropdown.Item>
                             </NavDropdown>
 
-                            <Nav.Link href="#link">About Us</Nav.Link>
+                            <NavDropdown title="About Us" id="basic-nav-dropdown" className="dropdown-toggle">
+                                <NavDropdown.Item href="#action/3.1" className="dropdown-item">Adem</NavDropdown.Item>
+                                <NavDropdown.Item href="#action/3.2" className="dropdown-item">Rose</NavDropdown.Item>
+                            </NavDropdown>
                     </Navbar.Collapse>
 
                     <Nav.Link href="https://github.com/LeafApps" className="justify-content-end"><InlineIcon icon={gitIcon}/></Nav.Link>
