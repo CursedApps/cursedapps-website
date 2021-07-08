@@ -11,7 +11,7 @@
     box-shadow: 0px 5px 10px var(--darkerColor);
 }
 
-a:first-letter 
+.la-navbar a:first-letter 
 {
   text-decoration:underline;
 }
@@ -20,19 +20,19 @@ a:first-letter
     font-size: 20px;
 }
 
-a:link {
+.la-navbar a:link {
     color: black;
 }
 
-a:visited {
+.la-navbar a:visited {
     color: black;
 }
 
-a:hover {
-    color: black;
+.la-navbar a:hover {
+    color: var(--darkerColor);
 }
 
-a:active {
+.la-navbar a:active {
     color: black;
 }
 

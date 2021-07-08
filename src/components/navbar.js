@@ -28,7 +28,7 @@ class StickyNavbar extends Component {
                             </NavDropdown>
                     </Navbar.Collapse>
 
-                    <Nav.Link href="https://github.com/LeafApps" className="justify-content-end"><InlineIcon icon={gitIcon}/></Nav.Link>
+                    <Nav.Link href="https://github.com/CursedApps" className="justify-content-end"><InlineIcon icon={gitIcon}/></Nav.Link>
                 </Navbar>
             </React.Fragment>
         );
