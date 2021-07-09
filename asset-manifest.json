@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cursedapps-website/static/css/main.b550c5ee.chunk.css",
-    "main.js": "/cursedapps-website/static/js/main.415fe73a.chunk.js",
-    "main.js.map": "/cursedapps-website/static/js/main.415fe73a.chunk.js.map",
+    "main.css": "/cursedapps-website/static/css/main.c0ea2ae8.chunk.css",
+    "main.js": "/cursedapps-website/static/js/main.fba167a9.chunk.js",
+    "main.js.map": "/cursedapps-website/static/js/main.fba167a9.chunk.js.map",
     "runtime-main.js": "/cursedapps-website/static/js/runtime-main.8b2ace9a.js",
     "runtime-main.js.map": "/cursedapps-website/static/js/runtime-main.8b2ace9a.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/cursedapps-website/static/css/2.ae9f1eb3.chunk.css",
@@ -12,15 +12,15 @@
     "static/js/3.554c770d.chunk.js.map": "/cursedapps-website/static/js/3.554c770d.chunk.js.map",
     "index.html": "/cursedapps-website/index.html",
     "static/css/2.ae9f1eb3.chunk.css.map": "/cursedapps-website/static/css/2.ae9f1eb3.chunk.css.map",
-    "static/css/main.b550c5ee.chunk.css.map": "/cursedapps-website/static/css/main.b550c5ee.chunk.css.map",
+    "static/css/main.c0ea2ae8.chunk.css.map": "/cursedapps-website/static/css/main.c0ea2ae8.chunk.css.map",
     "static/js/2.6af7afd6.chunk.js.LICENSE.txt": "/cursedapps-website/static/js/2.6af7afd6.chunk.js.LICENSE.txt",
-    "static/media/VF_W.20f53f54.png": "/cursedapps-website/static/media/VF_W.20f53f54.png"
+    "static/media/navbar.css": "/cursedapps-website/static/media/VF_W_small.84f5e746.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8b2ace9a.js",
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.6af7afd6.chunk.js",
-    "static/css/main.b550c5ee.chunk.css",
-    "static/js/main.415fe73a.chunk.js"
+    "static/css/main.c0ea2ae8.chunk.css",
+    "static/js/main.fba167a9.chunk.js"
   ]
 }
